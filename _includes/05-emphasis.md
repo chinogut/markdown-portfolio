@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My best qualities:
+
+## Physically:
+
+- _Extraordinarily_ __good looking__
+- _Healthy_ to a __fault__
+- __Slim__ and __trim__ to be _envied_
