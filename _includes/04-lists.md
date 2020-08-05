@@ -3,4 +3,4 @@
 - 2 Eating gourmet
 - 3 Watching a good sci-fi movie
 - 4 Sleeping in!!
-- Learning Git and GitHub
+- 5 Learning Git and GitHub
